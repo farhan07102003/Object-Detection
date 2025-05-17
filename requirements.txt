@@ -1,5 +1,0 @@
-streamlit==1.45.1
-tensorflow==2.16.1  # Critical version
-numpy==1.26.4
-Pillow==10.3.0
-h5py==3.11.0
